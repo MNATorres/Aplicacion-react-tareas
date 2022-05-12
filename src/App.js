@@ -3,6 +3,7 @@ import freeCodecampLogo from './imagenes/freecodecamp.png';
 import ListaDeTareas from './componentes/ListaDeTareas';
 
 function App() {
+  
   return (
     <div className='aplicacion-tareas'>
       <div className='freecodecamp-logo-contenedor'>
